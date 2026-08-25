@@ -4,10 +4,10 @@ A basic text-based tower of Hanoi Solver
 
 ## Features
 * The program can show an array solution where it shows each state of every peg and every move
-* <img width="186" height="165" alt="image" src="https://github.com/user-attachments/assets/c3037a60-d06d-4347-b55f-a609f23aa282" />
+<img width="186" height="165" alt="image" src="https://github.com/user-attachments/assets/c3037a60-d06d-4347-b55f-a609f23aa282" />
 
 * If the above method is unreadable there is a text based version
-* <img width="260" height="162" alt="image" src="https://github.com/user-attachments/assets/7ec18f81-8d61-4e9f-bb16-95dadee72964" />
+<img width="260" height="162" alt="image" src="https://github.com/user-attachments/assets/7ec18f81-8d61-4e9f-bb16-95dadee72964" />
 
 ## Future Plans
 * I plan on making a visual solution in the future where you can see each step
